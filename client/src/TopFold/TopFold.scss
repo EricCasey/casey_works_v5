@@ -1,0 +1,49 @@
+#TopFold {
+  margin-top: 50px;
+  height: 800px;
+  // border-bottom: 3px solid black;
+  position: absolute;
+  width: 100%;
+  // transform: skewY(6deg);
+  background: white;
+  color: black;
+  top: -40px;
+  // position: fixed;
+  z-index: 0;
+  left: 0;
+  background:
+    linear-gradient(-45deg, white 25%, transparent 25%, LINEN 75%, FLORALWHITE 75%, FLORALWHITE) 0 0,
+    linear-gradient(-45deg, MISTYROSE 25%, transparent 25%, transparent 75%, white 75%, white) 1em 1em,
+    linear-gradient(45deg, LINEN 17%, transparent 18%, transparent 25%, SEASHELL 25%, ANTIQUEWHITE 36%, transparent 36%, transparent 64%, LINEN 64%, SEASHELL 75%, transparent 75%, transparent 83%, BLANCHEDALMOND 83%) 1em 1em;
+  background-color: white;
+  background-size: 3em 3em;
+  .content {
+    // position: absolute;
+    // border: 3px solid black;
+    text-decoration: none;
+    padding-top: 200px;
+    width: 95%;
+    height: 70%;
+    margin: 6% 2.5% 0 2.5%;
+    color: black;
+    font-family: 'Inconsolata', monospace;
+    background:url(
+      data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAEElEQVQYV2NkwAIYqS+YBgACCgBsCW8lSQAAAABJRU5ErkJggg==
+    ) repeat, none;
+    transform: skewY(4deg);
+    padding-top: 30px;
+    .anchor1 {
+      width: 5px;
+      height: 5px;
+      margin: -200px auto 0 auto;
+      border: 1px solid blue;
+    }
+    h3 {
+      transform: skewY(-4deg);
+      text-decoration: underline;
+      font-size: 150%;
+      color: black;
+      margin-top: 50px;
+    }
+  }
+}

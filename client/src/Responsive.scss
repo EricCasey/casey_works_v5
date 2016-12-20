@@ -1,0 +1,241 @@
+@media only screen and (max-width: 1600px) {
+  h3 {
+      font-size: 1vw;
+  }
+}
+
+
+@media only screen and (max-width: 1130px) {
+  // body {
+  //   // background: blue;
+  // }
+  .prolink {
+    font-size: 12px;
+  }
+  #FoldTwo {
+    height: 1400px;
+  }
+  .project {
+    height: 16%;
+  }
+  .preview {
+    h3 {
+      max-width: 20%;
+    }
+  }
+}
+
+@media only screen and (max-width: 1130px) {
+  .prolink {
+    font-size: 10px;
+  }
+  .project {
+    margin: 0.5% auto;
+    h3 {
+      margin: 0;
+      max-width: 20%;
+      position: fixed;
+      margin-top: 5px;
+    }
+  }
+  .left {
+    left: 0px;
+    margin: 0 0 0 10px;
+    float: left;
+  }
+  .right {
+    // right: 15px;
+    // margin: 0 0;
+    h3 {
+      // position: relative;
+      padding-left: 230px;
+      float: right;
+    }
+  }
+}
+
+@media only screen and (max-width: 1018px) {
+
+  // body {
+  //   background: red;
+  // }
+  #TopFold {
+    height: 400px !important;
+  }
+  #FoldTwo {
+    margin-top: 500px;
+    .proLinks {
+    margin-left: 6px !important;
+    margin-right: 6px !important;
+    margin-bottom: 6px !important;
+    }
+  }
+  #FoldThree {
+    margin-top: -170px;
+    z-index: 999;
+  }
+  #FoldFive {
+    margin-top: -100px;
+    height: 475px !important;
+    .content {
+      margin-top: 100px;
+    }
+  }
+
+}
+
+@media only screen and (max-width: 950px) {
+
+    // body {
+    //     background-color: blue;
+    // }
+    .right h3 {
+        // position: relative;
+        padding-left: 300px !important;
+        float: right;
+        font-size: 15px !important;
+    }
+    .left h3 {
+      font-size: 15px !important;
+    }
+
+    #leftNav li {
+      padding-left: 35px !important;
+      border: none !important;
+    }
+    #rightNav li {
+      padding-left: 35px !important;
+      border: none !important;
+    }
+
+    #FoldTwo {
+      height: 1800px !important;
+      .project {
+        height: 10.5% !important;
+        width: 80% !important;
+        margin: 2px auto !important;
+        border: 1px solid white;
+        float: none !important;
+        .left, .right {
+          float: none !important;
+        }
+        .preview {
+          margin-top: -5px;
+        }
+        .prolink {
+          font-size: 15px;
+        }
+        p {
+          font-size: 12px !important;
+        }
+      }
+    }
+    #FoldThree {
+      margin-top: 0px;
+      padding-top: 15px;
+    }
+}
+
+
+@media only screen and (max-width: 740px) {
+    // body {
+    //     background-color: violet;
+    // }
+    // h3 {
+    //
+    // }
+    #FoldFive {
+      margin-top: -130px;
+      height: 300px !important;
+      .content {
+        margin-top: 80px;
+      }
+    }
+    #FoldThree {
+      height: 100px !important;
+      font-size: 12px !important;
+      .content {
+        margin-top: 38px;
+      }
+    }
+}
+
+@media only screen and (max-width: 709px) {
+    // body {
+    //     background-color: darkgray;
+    // }
+    #FoldTwo {
+      height: 2600px !important;
+      h3 {
+        font-weight: bolder;
+        text-decoration: none;
+      }
+      .project {
+        height: 10.5% !important;
+        width: 80% !important;
+        margin: 2px auto !important;
+        border: 1px solid white;
+        float: none !important;
+        .left, .right {
+          margin: 0 auto !important;
+        }
+        .preview {
+          margin: -5px auto 0px auto;
+        }
+        .prolink {
+          font-size: 15px;
+
+        }
+        p {
+          font-size: 12px !important;
+          position: fixed !important;
+          text-align: center;
+          margin: 130px 15px 0 15px !important;
+          max-width: 70%;
+        }
+      }
+    }
+}
+
+@media only screen and (max-width: 625px) {
+    // body {
+    //     background-color: red;
+    // }
+
+    #FoldTwo .content .project .proLinks {
+      float:left !important;
+      margin-top: 16px !important;
+      margin-left: 5% !important;
+    }
+    #FoldTwo .project p { margin-top: 150px !important;}
+    #FoldTwo {
+      height: 2700px !important;
+      h3 {
+        font-size: 5vw !important;
+        max-width: 80% !important;
+        margin: 0 0 0 10% !important;
+        padding: 0 !important;
+      }
+      .preview {
+        position: absolute;
+        margin: 25px auto 0 15% !important;
+      }
+      a {
+        text-align: center;
+        display: block;
+      }
+    }
+
+
+}
+
+
+@media only screen and (max-width: 550px) {
+    .gone {
+        display: block;
+        animation: none;
+        visibility: visible;
+        opacity: 1;
+        
+    }
+}

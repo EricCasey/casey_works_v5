@@ -1,0 +1,25 @@
+#FoldSix {
+  // border-bottom: 3px solid blue;
+  // border-top: 3px solid black;
+  height: 300px;
+  width: 100%;
+  display: block;
+  transform: skewY(6deg);
+  background: white;
+  z-index: 0;
+  opacity: 1;
+  .content {
+    position: absolute;
+    width: 95%;
+    height: 86%;
+    margin: 6% 2.5% 0 2.5%;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    transform: skewY(-6deg);
+    h3 {
+      text-decoration: underline;
+      font-size: 150%;
+      color: black;
+    }
+  }
+}

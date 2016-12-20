@@ -1,0 +1,69 @@
+#FoldFive {
+  // border-bottom: 3px solid blue;
+  border-top: 3px solid black;
+  height: 600px;
+  width: 100%;
+  display: block;
+  transform: skewY(6deg);
+  background: black;
+  z-index: 0;
+  opacity: 1;
+  -webkit-box-shadow: -7px -9px 74px 2px LIGHTGOLDENRODYELLOW;
+  -moz-box-shadow: -7px -9px 74px 2px LIGHTGOLDENRODYELLOW;
+  box-shadow: -7px -9px 74px 2px LIGHTGOLDENRODYELLOW;
+  .content {
+    position: absolute;
+    width: 95%;
+    height: 86%;
+    margin: 6% 2.5% 0 2.5%;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    transform: skewY(-6deg);
+    #connections1 {
+      width: 100%;
+      height: 40%;
+      display: flex;
+      .connection {
+        flex-grow: 1;
+        width: 15%;
+        padding: 3%;
+        img {
+          // height: 80%;
+          width: 100%;
+          max-width: 90%;
+          margin: 2px auto;
+        }
+      }
+    }
+    #connections2 {
+      width: 100%;
+      height: 40%;
+      display: flex;
+      #skype {
+        width: 75%;
+      }
+      #steam {
+        width: 80%;
+      }
+      .connection {
+        flex-grow: 1;
+        width: 20%;
+        img {
+          // height: 80%;
+          width: 100%;
+          max-width: 90%;
+          margin: 2px auto;
+        }
+      }
+    }
+    .anchor5 {
+      width: 5px;
+      height: 5px;
+      margin: -170px auto 150px auto;
+    }
+    h3 {
+      text-decoration: underline;
+      font-size: 150%;
+    }
+  }
+}

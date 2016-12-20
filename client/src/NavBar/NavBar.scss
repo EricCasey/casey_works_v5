@@ -1,0 +1,132 @@
+#NavBar {
+  z-index: 98;
+  top: 0px;
+  // display: relative;
+  position: fixed;
+  color: black;
+  background: -webkit-gradient(linear, 95% 5%, 95% 100%, from(#cc6699), to(#000000)), blue;
+  background-blend-mode: difference;
+  mix-blend-mode: difference;
+  width: 100%;
+  // overflow: hidden;
+  height: 140px;
+  max-height: 140px;
+  border-bottom: 3px white solid;
+  border-top: 3px white solid;
+  nav {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    #leftNav {
+      position: fixed;
+      width: 28%;
+      top: 10px;
+      left: 30px;
+      height: 100px;
+      // border: 1px solid green;
+    }
+    #rightNav {
+      position: fixed;
+      top: 10px;
+      right: 30px;
+      width: 28%;
+      height: 100px;
+      align-content: center;
+    }
+    li {
+      list-style: none;
+      max-height: 75px;
+      font-family: 'Roboto Mono', monospace;
+      max-width: 49%;
+      margin-left: 15%;
+      margin-right: 15%;
+      margin-top: 30px;
+      float: left;
+      border-bottom: solid white 1px;
+      font-weight: normal;
+      a {
+        color: white;
+      }
+      a:link {
+        color: white;
+        text-decoration: none;
+        text-decoration-color: black;
+      }
+      a:hover {
+        font-weight:bolder;
+      }
+    }
+  }
+  .navGlitch {
+    position: relative;
+  }
+  .navGlitch::before,
+  .navGlitch::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .navGlitch::before {
+    left: 2px;
+    text-shadow: -1px 0 red;
+    background: none;
+  }
+  .navGlitch::after {
+    left: -2px;
+    text-shadow: -2px 0 blue;
+    background: none;
+  }
+  .navGlitch::before {
+    clip: rect(44px, 450px, 56px, 0);
+  }
+  @keyframes glitch-anim-1 {
+    $steps: 15;
+    @for $i from 0 through $steps {
+      #{percentage($i*(1/$steps))} {
+        clip: rect(random(100)+px, 9999px, random(100)+px, 0);
+      }
+    }
+  }
+  @keyframes glitch-anim-2 {
+    $steps: 15;
+    @for $i from 0 through $steps {
+      #{percentage($i*(1/$steps))} {
+        clip: rect(random(100)+px, 9999px, random(100)+px, 0);
+      }
+    }
+  }
+  .navGlitch::before {
+    animation: glitch-anim-1 2s infinite linear alternate-reverse;
+  }
+  .navGlitch::after {
+    animation: glitch-anim-2 2s infinite linear alternate-reverse;
+  }
+}
+
+// @media only screen and (max-width: 1050px) {
+//   #leftNav {
+//     width: 28%;
+//     left: 10px;
+//     height: 100px;
+//     border: 1px solid green;
+//   }
+//   #rightNav {
+//     right: 10px;
+//     height: 100px;
+//     border: 1px solid red;
+//     align-content: center;
+//   }
+//   li {
+//     position: relative;
+//     max-height: 75px;
+//     // font-size-adjust: 1;
+//     max-width: 50%;
+//     margin-left: 100%;
+//     margin-right: 100%;
+//     // margin-top: 30px;
+//     float: left;
+//   }
+// }

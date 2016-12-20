@@ -1,0 +1,47 @@
+#imageArea {
+  color: orange;
+  background: black;
+  max-width: 99%;
+  // height: 10000px;
+  margin: 10px;
+  nav {
+    position: fixed;
+    top: 15px;
+    left: 20%;
+    background-blend-mode: difference;
+    mix-blend-mode: difference;
+    margin-bottom: 100px;
+    h3 {
+      // position: fixed;
+      // top: 10px;
+      // z-index: 999;
+      margin-bottom: 30px;
+      margin: 0 auto;
+      color: white;
+    }
+    svg {
+      margin: 0 auto;
+      fill: black;
+    }
+    #back {
+      float: left;
+      margin: 5px 0 20px 30px;
+    }
+  }
+
+  #photoContainer {
+    max-width: 700px;
+    border: 15px solid white;
+    margin: auto;
+    background: white;
+    padding-top: 100px;
+    .line {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+}
+#dotWorks {
+  width: 100px;
+  fill: black;
+}

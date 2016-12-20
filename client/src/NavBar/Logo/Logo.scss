@@ -1,0 +1,24 @@
+#Logo {
+  width: 40%;
+  max-height: 95%;
+  height: 100px;
+  // margin-top: 5px;
+  color: green;
+  // mix-blend-mode: difference;
+  z-index: 0;
+  margin: 0 auto 0 auto;
+  // overflow: hidden;
+  // border: 1px solid violet;
+  position: fixed;
+  top: 10px;
+  left: 30%;
+  svg {
+    // top: -50px;
+    width: 100%;
+    margin: 0;
+    // max-height: 95%;
+  }
+  path {
+    fill: white;
+  }
+}

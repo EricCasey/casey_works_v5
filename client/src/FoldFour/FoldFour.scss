@@ -1,0 +1,61 @@
+#FoldFour {
+
+  // border-bottom: 3px solid blue;
+
+  // border-top: 3px dashed blue;
+
+  // border-top: 2px dashed #046ca3;
+    // border-bottom: 1px dashed #046ca3;
+  box-shadow-top: inset 0 -1px 0 0 #046ca3, inset 0 1px 0 0 #046ca3, 0 1px 0 0 #046ca3, 0 -1px 0 0 #046ca3;
+
+
+  height: 400px;
+  width: 100%;
+  display: block;
+  transform: skewY(-6deg);
+  background: black;
+  z-index: 0;
+  opacity: 1;
+  .content {
+    position: absolute;
+    // border: 3px solid white;
+    width: 95%;
+    height: 60%;
+    margin: 6% 2.5% 0 2.5%;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    transform: skewY(6deg);
+    .creds {
+      width: 100%;
+      border: 1px blue solid;
+      // float: left;
+      align-content: center;
+      display: flex;
+    }
+    .cred {
+        display: inline-block;
+        flex-grow: 1;
+        max-width: 20%;
+        margin: 5px 5%;
+        // border: 1px solid white;
+        text-align: center;
+        p {
+          max-width: 95%;
+        }
+        img {
+          max-width: 90%;
+          margin: 2px auto;
+        }
+    }
+    .anchor4 {
+      width: 5px;
+      height: 5px;
+      margin: -160px auto 150px auto;
+    }
+    h3 {
+      text-decoration: underline;
+      font-size: 150%;
+      font-weight: normal;
+    }
+  }
+}
