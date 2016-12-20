@@ -8,7 +8,7 @@
   "gitURL" : "https://github.com/EricCasey/Shirtvivor-1.0",
   "liveURL" : "",
   "deskImage" : "https://raw.githubusercontent.com/EricCasey/images4md/master/s_cart.png",
-  "mobImage" : "http://i.imgur.com/MxqTIU2.png",
+  "mobImage" : "https://i.imgur.com/MxqTIU2.png",
   "tabletImage" : "https://raw.githubusercontent.com/EricCasey/images4md/master/s_vote.png"
 },
 {
@@ -17,21 +17,21 @@
   "description" : "My old personal website. Using self-taught web development knowledge. Pure HTML, CSS, jQuery.",
   "demoURL" : "",
   "gitURL" : "https://github.com/EricCasey/casey_works_v1",
-  "liveURL" : "http://www.casey.works",
-  "deskImage" : "http://i.imgur.com/56sqgaY.png",
-  "mobImage" : "http://i.imgur.com/hMLko5x.png",
-  "tabletImage" : "http://i.imgur.com/fGghvJp.png"
+  "liveURL" : "https://www.casey.works",
+  "deskImage" : "https://i.imgur.com/56sqgaY.png",
+  "mobImage" : "https://i.imgur.com/hMLko5x.png",
+  "tabletImage" : "https://i.imgur.com/fGghvJp.png"
 },
 {
   "id" : 3,
   "title": "NYE 'Bridge' App",
   "description" : "A 'New Years Resolution'-themed web app for impulse-shopping.",
-  "demoURL" : "http://www.responsinator.com/?url=www.groundbreaking.rocks%2F2016",
+  "demoURL" : "https://www.responsinator.com/?url=www.groundbreaking.rocks%2F2016",
   "gitURL" : "",
-  "liveURL" : "http://www.groubreaking.rocks/2016",
-  "deskImage" : "http://i.imgur.com/vxsYDhg.png",
-  "mobImage" : "http://i.imgur.com/MIsuaos.png",
-  "tabletImage" : "http://i.imgur.com/MIsuaos.png"
+  "liveURL" : "https://www.groubreaking.rocks/2016",
+  "deskImage" : "https://i.imgur.com/vxsYDhg.png",
+  "mobImage" : "https://i.imgur.com/MIsuaos.png",
+  "tabletImage" : "https://i.imgur.com/MIsuaos.png"
 },
 {
   "id" : 4,
@@ -40,31 +40,31 @@
   "demoURL" : "",
   "gitURL" : "https://github.com/EricCasey/chat.af",
   "liveURL" : "",
-  "deskImage" : "http://i.imgur.com/T5Vdv4w.png",
+  "deskImage" : "https://i.imgur.com/T5Vdv4w.png",
   "mobImage" : "https://raw.githubusercontent.com/EricCasey/images4md/master/chatafCAP.png",
-  "tabletImage" : "http://i.imgur.com/hmNVLmL.png"
+  "tabletImage" : "https://i.imgur.com/hmNVLmL.png"
 },
 {
   "id" : 5,
   "title": "Mobile Fencing Game",
   "description" : "This is an unfinished canvas game in which you defend yourself from ninjas with a foil.",
-  "demoURL" : "http://www.responsinator.com/?url=www.casey.works%2Fworks%2Ffencinggame",
+  "demoURL" : "https://www.responsinator.com/?url=www.casey.works%2Fworks%2Ffencinggame",
   "gitURL" : "https://github.com/EricCasey/fencinggame",
-  "liveURL" : "http://www.casey.works/works/fencinggame",
-  "deskImage" : "http://i.imgur.com/y4ENs8C.png",
-  "mobImage" : "http://i.imgur.com/lsZME4k.png",
-  "tabletImage" : "http://i.imgur.com/WJ50ToA.png"
+  "liveURL" : "https://www.casey.works/works/fencinggame",
+  "deskImage" : "https://i.imgur.com/y4ENs8C.png",
+  "mobImage" : "https://i.imgur.com/lsZME4k.png",
+  "tabletImage" : "https://i.imgur.com/WJ50ToA.png"
 },
 {
   "id" : 6,
   "title": "SierraFlame.com",
   "description" : "A freelance Wordpress site that included front-end, graphic design, SEO & SEM works.",
-  "demoURL" : "http://www.sierraflame.com",
+  "demoURL" : "https://www.sierraflame.com",
   "gitURL" : "",
-  "liveURL" : "http://www.sierraflame.com",
-  "deskImage" : "http://i.imgur.com/92M2TqI.png",
-  "mobImage" : "http://i.imgur.com/1bMbn1y.png",
-  "tabletImage" : "http://i.imgur.com/r0fg2xu.png"
+  "liveURL" : "https://www.sierraflame.com",
+  "deskImage" : "https://i.imgur.com/92M2TqI.png",
+  "mobImage" : "https://i.imgur.com/1bMbn1y.png",
+  "tabletImage" : "https://i.imgur.com/r0fg2xu.png"
 },
 {
   "id" : 7,
@@ -73,9 +73,9 @@
   "demoURL" : "",
   "gitURL" : "",
   "liveURL" : "",
-  "deskImage" : "http://i.imgur.com/iobhCCF.png",
-  "mobImage" : "http://i.imgur.com/rqw99K8.png",
-  "tabletImage" : "http://i.imgur.com/TsQQrsO.png"
+  "deskImage" : "https://i.imgur.com/iobhCCF.png",
+  "mobImage" : "https://i.imgur.com/rqw99K8.png",
+  "tabletImage" : "https://i.imgur.com/TsQQrsO.png"
 },
 {
   "id" : 8,
@@ -84,7 +84,7 @@
   "demoURL" : "https://morning-falls-83469.herokuapp.com/",
   "gitURL" : "",
   "liveURL" : "",
-  "deskImage" : "http://i.imgur.com/yXzYM0f.png",
+  "deskImage" : "https://i.imgur.com/yXzYM0f.png",
   "mobImage" : "x",
   "tabletImage" : "x"
 },
@@ -95,21 +95,21 @@
   "description" : "A freelance Wordpress site that included SEO & SEM works.",
   "demoURL" : "",
   "gitURL" : "",
-  "liveURL" : "http://www.royalhomeimprovements.ca",
-  "deskImage" : "http://i.imgur.com/ZscS2CI.png",
-  "mobImage" : "http://i.imgur.com/OjHdEUO.png",
-  "tabletImage" : "http://i.imgur.com/OjHdEUO.png"
+  "liveURL" : "https://www.royalhomeimprovements.ca",
+  "deskImage" : "https://i.imgur.com/ZscS2CI.png",
+  "mobImage" : "https://i.imgur.com/OjHdEUO.png",
+  "tabletImage" : "https://i.imgur.com/OjHdEUO.png"
 },
 {
   "id" : 10,
   "title": "[WIP] RespTempl8.1",
   "contribution" : "1",
   "description" : "A simple responsive website template",
-  "demoURL" : "http://www.casey.works/v2/index.html",
+  "demoURL" : "https://www.casey.works/v2/index.html",
   "gitURL" : "",
-  "liveURL" : "http://www.casey.works/v2/index.html",
-  "deskImage" : "http://i.imgur.com/k6fw9S1.png",
-  "mobImage" : "http://i.imgur.com/kefT7gO.png",
-  "tabletImage" : "http://i.imgur.com/kefT7gO.png"
+  "liveURL" : "https://www.casey.works/v2/index.html",
+  "deskImage" : "https://i.imgur.com/k6fw9S1.png",
+  "mobImage" : "https://i.imgur.com/kefT7gO.png",
+  "tabletImage" : "https://i.imgur.com/kefT7gO.png"
 }
 ]
