@@ -46,7 +46,6 @@ class App extends Component {
           <div className={classnames('App', className)} {...props}>
             <Loader />
             <NavBar />
-            <div id="headTri"></div>
             <TopFold />
             <FoldTwo />
             <FoldThree />
