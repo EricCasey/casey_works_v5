@@ -1,6 +1,78 @@
 [
+  {
+    "id" : 1,
+    "title": "Paste Trader",
+    "contribution" : "1",
+    "description" : "Portfolio Visualization App",
+    "demoURL" : "",
+    "gitURL" : "https://github.com/EricCasey/PasteTrader",
+    "liveURL" : "https://www.pastetrader.com",
+    "deskImage" : "https://i.imgur.com/1EZu6v8.png",
+    "mobImage" : "https://i.imgur.com/T1uMP0Z.png",
+    "tabletImage" : "https://i.imgur.com/CXYnGFI.png?4"
+  },
+  {
+    "id" : 2,
+    "title": "Google Floodlight QA Tool",
+    "contribution" : "1",
+    "description" : "Casey.works version 2",
+    "demoURL" : "https://pixelqa-client.herokuapp.com/",
+    "gitURL" : "https://github.com/EricCasey/realtime-floodlight-qa",
+    "liveURL" : "https://pixelqa-client.herokuapp.com/",
+    "deskImage" : "https://i.imgur.com/VoICOy1.png",
+    "mobImage" : "x",
+    "tabletImage" : "x"
+  },
+  {
+    "id" : 3,
+    "title": "NewBase:VIEW",
+    "contribution" : "0.1",
+    "description" : "Marketing Dashboard Tool",
+    "demoURL" : "http://www.thenewbase.com/global/digital-advertising/newbase-view/",
+    "gitURL" : "",
+    "liveURL" : "https://view.thenewbase.com",
+    "deskImage" : "https://i.imgur.com/kdONcQW.jpg",
+    "mobImage" : "x",
+    "tabletImage" : "x"
+  },
+  {
+    "id" : 4,
+    "title": "Casey.Works v2",
+    "contribution" : "1",
+    "description" : "Casey.works version 2",
+    "demoURL" : "https://works-demo.herokuapp.com/",
+    "gitURL" : "https://github.com/EricCasey/",
+    "liveURL" : "https://www.casey.works",
+    "deskImage" : "https://i.imgur.com/cSPurBl.png",
+    "mobImage" : "https://i.imgur.com/puJEko2.png",
+    "tabletImage" : "https://i.imgur.com/tIeS5hU.png"
+  },
+  {
+    "id" : 5,
+    "title": "Crypto Ticker POC",
+    "contribution" : "1",
+    "description" : "Experiments with Crypto APIs",
+    "demoURL" : "https://btc-dashboard-poc.herokuapp.com/",
+    "gitURL" : "https://github.com/EricCasey/BitcoinTickerPOC",
+    "liveURL" : "",
+    "deskImage" : "https://i.imgur.com/9oCg7I2.png",
+    "mobImage" : "x",
+    "tabletImage" : "x"
+  },
+  {
+    "id" : 6,
+    "title": "EYEDERALL",
+    "contribution" : "1",
+    "description" : "Photo Blog",
+    "demoURL" : "",
+    "gitURL" : "",
+    "liveURL" : "https://www.casey.works",
+    "deskImage" : "https://i.imgur.com/ccHwMQh.png",
+    "mobImage" : "https://i.imgur.com/JQrnvKH.png",
+    "tabletImage" : "https://i.imgur.com/JQrnvKH.png"
+  },
 {
-  "id" : 1,
+  "id" : 7,
   "title": "Shirtvivor",
   "contribution" : "0.5",
   "description" : "16 graphic designers compete for their place on this full-stack island made of ReactJS, postgreSQL & an Express API.",
@@ -12,7 +84,7 @@
   "tabletImage" : "https://raw.githubusercontent.com/EricCasey/images4md/master/s_vote.png"
 },
 {
-  "id" : 2,
+  "id" : 8,
   "title": "Casey.Works v1",
   "description" : "My old personal website. Using self-taught web development knowledge. Pure HTML, CSS, jQuery.",
   "demoURL" : "",
@@ -23,7 +95,7 @@
   "tabletImage" : "https://i.imgur.com/fGghvJp.png"
 },
 {
-  "id" : 3,
+  "id" : 9,
   "title": "NYE 'Bridge' App",
   "description" : "A 'New Years Resolution'-themed web app for impulse-shopping.",
   "demoURL" : "https://www.responsinator.com/?url=www.groundbreaking.rocks%2F2016",
@@ -34,7 +106,7 @@
   "tabletImage" : "https://i.imgur.com/MIsuaos.png"
 },
 {
-  "id" : 4,
+  "id" : 10,
   "title": "Chat.af",
   "description" : "This is a React.js project that simulates modern browser-based chat clients using web-sockets. it also has a profanity filter.",
   "demoURL" : "",
@@ -45,7 +117,7 @@
   "tabletImage" : "https://i.imgur.com/hmNVLmL.png"
 },
 {
-  "id" : 5,
+  "id" : 11,
   "title": "Mobile Fencing Game",
   "description" : "This is an unfinished canvas game in which you defend yourself from ninjas with a foil.",
   "demoURL" : "https://www.responsinator.com/?url=www.casey.works%2Fworks%2Ffencinggame",
@@ -56,7 +128,7 @@
   "tabletImage" : "https://i.imgur.com/WJ50ToA.png"
 },
 {
-  "id" : 6,
+  "id" : 12,
   "title": "SierraFlame.com",
   "description" : "A freelance Wordpress site that included front-end, graphic design, SEO & SEM works.",
   "demoURL" : "https://www.sierraflame.com",
@@ -67,7 +139,7 @@
   "tabletImage" : "https://i.imgur.com/r0fg2xu.png"
 },
 {
-  "id" : 7,
+  "id" : 13,
   "title": "------.com",
   "description" : "A React.js site design for an anonymous company",
   "demoURL" : "",
@@ -78,7 +150,7 @@
   "tabletImage" : "https://i.imgur.com/TsQQrsO.png"
 },
 {
-  "id" : 8,
+  "id" : 14,
   "title": "TPB top 201 app",
   "description" : "A React.js & Express App that conslidates the TPB top 201 list with their trailers using the YouTube API.",
   "demoURL" : "https://morning-falls-83469.herokuapp.com/",
@@ -89,7 +161,7 @@
   "tabletImage" : "x"
 },
 {
-  "id" : 9,
+  "id" : 15,
   "title": "RoyalHome....ca",
   "contribution" : "0.8",
   "description" : "A freelance Wordpress site that included SEO & SEM works.",
@@ -101,7 +173,7 @@
   "tabletImage" : "https://i.imgur.com/OjHdEUO.png"
 },
 {
-  "id" : 10,
+  "id" : 16,
   "title": "[WIP] RespTempl8.1",
   "contribution" : "1",
   "description" : "A simple responsive website template",

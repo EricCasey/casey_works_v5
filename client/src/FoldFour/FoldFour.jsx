@@ -16,14 +16,18 @@ class FoldFour extends Component {
           </div>
 
           <div className="cred">
-            <img src="http://i.imgur.com/v3iKGdK.png" role="presentation"/>
+            <img
+            src="https://shopify-ecommerce-university.s3.amazonaws.com/production/assets/asset/attachment/1087/google-adwords-transparent.png" role="presentation" />
             <p></p>
           </div>
 
+          <div className="cred">
+            <img src="https://i.imgur.com/U62uG5u.png?2" role="presentation"/>
+            <p></p>
+          </div>
 
           <div className="cred">
-            <img
-            src="https://shopify-ecommerce-university.s3.amazonaws.com/production/assets/asset/attachment/1087/google-adwords-transparent.png" role="presentation" />
+            <img src="https://i.imgur.com/e5tcUaW.png" role="presentation"/>
             <p></p>
           </div>
 
@@ -36,6 +40,11 @@ class FoldFour extends Component {
           <div className="cred">
             <img
             src="http://i.imgur.com/kICCPPC.png" role="presentation" />
+            <p></p>
+          </div>
+
+          <div className="cred">
+            <img src="http://i.imgur.com/v3iKGdK.png" role="presentation"/>
             <p></p>
           </div>
 

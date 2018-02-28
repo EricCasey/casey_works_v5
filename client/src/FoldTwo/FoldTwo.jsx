@@ -113,6 +113,7 @@ class FoldTwo extends Component {
           })
         }
         </div>
+        <h3 id="moreG"><a id="moreG" href="https://www.github.com/EricCasey" target="_blank">github</a></h3>
       </div>
     );
   }

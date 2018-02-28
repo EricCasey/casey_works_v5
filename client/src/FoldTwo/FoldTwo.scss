@@ -1,7 +1,7 @@
 #FoldTwo {
   margin-top: 600px;
   // border-bottom: 3px solid red;
-  height: 1600px;
+  height: 2050px;
   width: 100%;
   display: block;
   transform: skewY(-6deg);
@@ -11,6 +11,19 @@
   ) repeat,
   black;
   z-index: -5;
+  #moreG {
+    color: lightblue;
+    background: red;
+    position: absolute;
+    width: 80%;
+    margin: 0;
+    bottom: 0px;
+    text-decoration: none;
+  }
+  #moreG:hover {
+    color: yellow;
+    background:orange;
+  }
   .content {
     position: absolute;
     // border: 3px solid white;
@@ -39,7 +52,7 @@
     .project {
       border: 2px solid white;
       width: 48%;
-      height: 15%;
+      height: 175px;
       margin: 2% auto;
       border-radius: 10px;
       text-align: left;
