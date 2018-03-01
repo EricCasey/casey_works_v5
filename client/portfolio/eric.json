@@ -3,7 +3,7 @@
     "id" : 1,
     "title": "Paste Trader",
     "contribution" : "1",
-    "description" : "Portfolio Visualization App",
+    "description" : "A Crypto Portfolio Visualization App",
     "demoURL" : "",
     "gitURL" : "https://github.com/EricCasey/PasteTrader",
     "liveURL" : "https://www.pastetrader.com",
